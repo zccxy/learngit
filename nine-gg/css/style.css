@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.content{
+    margin:1% 0 0 2%;
+    background:#fff;
+    width:100%;
+}
+.square{
+    width:30%;
+    padding-top:30%;
+    border-radius:15px;
+    background:orange;
+    margin:0 2% 2% 0;
+    float:left;
+
+}
